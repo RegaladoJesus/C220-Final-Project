@@ -16,6 +16,7 @@ Something that surprised me during the implementation was the amount of effects 
 * All art made by me, including sound effects, sprites, and music.
 * An info page that explains a bit about the game and some the upgrades.
 * Stats page so you can see how much money you've earned in total, money spent, etc.
+* Settings menu with mute/unmute for the music and a restart button
 
 ## Special Focus
 I think my special focus was art and a bit of mechanics. I think my effort is a 5. I made pretty much every aspect of art in the game. I made the image for every item and the background. I also made sure that the game felt nice, every time the user interacts with something there is some sort of indicator that shows it worked/you interacted with it. The progress throughout the game doesn't feel too hard or too easy in my opinion and had me hooked for a good period during the creation of the game.  
