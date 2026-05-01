@@ -19,7 +19,7 @@ Something that surprised me during the implementation was the amount of effects 
 * Settings menu with mute/unmute for the music and a restart button
 
 ## Special Focus
-I think my special focus was art and a bit of mechanics. I think my effort is a 5. I made pretty much every aspect of art in the game. I made the image for every item and the background. I also made sure that the game felt nice, every time the user interacts with something there is some sort of indicator that shows it worked/you interacted with it. The progress throughout the game doesn't feel too hard or too easy in my opinion and had me hooked for a good period during the creation of the game.  
+I think my special focus was art and a bit of mechanics. I think my effort is a 5. I made pretty much every aspect of art in the game. I made the image for every item and the background. I also made sure that the game felt nice, every time the user interacts with something there is some sort of indicator that shows it worked/you interacted with it. The progress throughout the game doesn't feel too hard or too easy in my opinion and had me hooked for good periods during the creation of the game. Many of my friends when testing my game would get hooked as well.
 
 ## References
 * [Text Font](https://kenney.nl/assets/kenney-fonts)
